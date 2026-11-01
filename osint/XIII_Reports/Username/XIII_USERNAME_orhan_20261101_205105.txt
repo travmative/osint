@@ -1,0 +1,255 @@
+================================================================================
+                    XIII 0S1NT - INTELLIGENCE REPORT                    
+                 AUTOMATED OSINT RECONNAISSANCE DOSSIER                 
+                      DEVELOPED BY FINDHOST $ TRAVMA                    
+================================================================================
+
+[+] INVESTIGATION METADATA
+--------------------------------------------------------------------------------
+Investigation ID:         97234473-365e-4d4d-8551-81b82b3162e9
+Investigation Module:     Username
+Target Identifier:        orhan [Handle / Username]
+Timestamp (UTC):          2026-11-01 20:51:05 UTC
+Platform Version:         2.4.0 (Enterprise Build)
+Classification:           PUBLIC OSINT / UNCLASSIFIED
+
+[+] EXECUTIVE SUMMARY & CONFIDENCE ASSESSMENT
+--------------------------------------------------------------------------------
+Confidence Score:         0.0%
+Overall Assessment:       INCONCLUSIVE: No definitive public intelligence matches found across active repositories.
+
+Reconnaissance scan for target handle 'orhan' executed across 27 major public platforms. No confirmed active public accounts were identified with this exact handle on queried services.
+
+[+] RECONNAISSANCE METRICS
+--------------------------------------------------------------------------------
+Total Services Queried:   27
+Confirmed Findings:       0
+Potential Findings:       0
+Unverified Findings:      23
+Not Found (404/Empty):    4
+Service Unavailable:      0
+Rate-Limited Requests:    0
+
+[+] SERVICE-BY-SERVICE FINDINGS & EVIDENCE
+================================================================================
+
+[UNVERIFIED] GitHub
+--------------------------------------------------------------------------------
+  Provider URL:    https://api.github.com/users/orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://api.github.com/users/orhan
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[NOT FOUND] GitLab
+--------------------------------------------------------------------------------
+  Provider URL:    https://gitlab.com/api/v4/users?username=orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://gitlab.com/api/v4/users?username=orhan
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Username not registered on GitLab.
+
+[UNVERIFIED] Reddit
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.reddit.com/user/orhan/about.json
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.reddit.com/user/orhan/about.json
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Bluesky
+--------------------------------------------------------------------------------
+  Provider URL:    https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=orhan.bsky.social
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=orhan.bsky.social
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Mastodon
+--------------------------------------------------------------------------------
+  Provider URL:    https://mastodon.social/api/v1/accounts/lookup?acct=orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://mastodon.social/api/v1/accounts/lookup?acct=orhan
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Gravatar
+--------------------------------------------------------------------------------
+  Provider URL:    https://gravatar.com/orhan.json
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://gravatar.com/orhan.json
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[NOT FOUND] Hacker News
+--------------------------------------------------------------------------------
+  Provider URL:    https://hacker-news.firebaseio.com/v0/user/orhan.json
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://hacker-news.firebaseio.com/v0/user/orhan.json
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Username not found in Hacker News records.
+
+[UNVERIFIED] Codeberg
+--------------------------------------------------------------------------------
+  Provider URL:    https://codeberg.org/api/v1/users/orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://codeberg.org/api/v1/users/orhan
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] DEV Community
+--------------------------------------------------------------------------------
+  Provider URL:    https://dev.to/api/users/by_username?url=orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://dev.to/api/users/by_username?url=orhan
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Docker Hub
+--------------------------------------------------------------------------------
+  Provider URL:    https://hub.docker.com/v2/users/orhan/
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://hub.docker.com/v2/users/orhan/
+  Query Timestamp: 2026-11-01 20:50:55 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] NPM
+--------------------------------------------------------------------------------
+  Provider URL:    https://registry.npmjs.org/-/v1/search?text=maintainer:orhan&size=1
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://registry.npmjs.org/-/v1/search?text=maintainer:orhan&size=1
+  Query Timestamp: 2026-11-01 20:50:58 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] SourceForge
+--------------------------------------------------------------------------------
+  Provider URL:    https://sourceforge.net/rest/u/orhan/profile
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://sourceforge.net/rest/u/orhan/profile
+  Query Timestamp: 2026-11-01 20:50:58 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[NOT FOUND] Keybase
+--------------------------------------------------------------------------------
+  Provider URL:    https://keybase.io/_/api/1.0/user/lookup.json?usernames=orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://keybase.io/_/api/1.0/user/lookup.json?usernames=orhan
+  Query Timestamp: 2026-11-01 20:50:58 UTC
+  Intelligence:    Handle not registered on Keybase.
+
+[UNVERIFIED] Medium
+--------------------------------------------------------------------------------
+  Provider URL:    https://medium.com/@orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://medium.com/@orhan
+  Query Timestamp: 2026-11-01 20:50:58 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Tumblr
+--------------------------------------------------------------------------------
+  Provider URL:    https://orhan.tumblr.com
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://orhan.tumblr.com
+  Query Timestamp: 2026-11-01 20:50:59 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Pinterest
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.pinterest.com/orhan/
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.pinterest.com/orhan/
+  Query Timestamp: 2026-11-01 20:50:59 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Flickr
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.flickr.com/people/orhan/
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.flickr.com/people/orhan/
+  Query Timestamp: 2026-11-01 20:50:59 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Steam
+--------------------------------------------------------------------------------
+  Provider URL:    https://steamcommunity.com/id/orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://steamcommunity.com/id/orhan
+  Query Timestamp: 2026-11-01 20:50:59 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Twitch
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.twitch.tv/orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.twitch.tv/orhan
+  Query Timestamp: 2026-11-01 20:50:59 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] YouTube
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.youtube.com/@orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.youtube.com/@orhan
+  Query Timestamp: 2026-11-01 20:50:59 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Product Hunt
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.producthunt.com/@orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.producthunt.com/@orhan
+  Query Timestamp: 2026-11-01 20:51:01 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Kaggle
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.kaggle.com/orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.kaggle.com/orhan
+  Query Timestamp: 2026-11-01 20:51:01 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Hugging Face
+--------------------------------------------------------------------------------
+  Provider URL:    https://huggingface.co/api/users/orhan/overview
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://huggingface.co/api/users/orhan/overview
+  Query Timestamp: 2026-11-01 20:51:02 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] TikTok
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.tiktok.com/@orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.tiktok.com/@orhan
+  Query Timestamp: 2026-11-01 20:51:02 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] Instagram
+--------------------------------------------------------------------------------
+  Provider URL:    https://www.instagram.com/orhan/
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://www.instagram.com/orhan/
+  Query Timestamp: 2026-11-01 20:51:02 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[UNVERIFIED] X / Twitter
+--------------------------------------------------------------------------------
+  Provider URL:    https://x.com/orhan
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://x.com/orhan
+  Query Timestamp: 2026-11-01 20:51:02 UTC
+  Intelligence:    Response received with HTTP status 0
+
+[NOT FOUND] Roblox
+--------------------------------------------------------------------------------
+  Provider URL:    https://users.roblox.com/v1/usernames/users
+  HTTP Status:     0 (0 ms)
+  Target URL:      https://users.roblox.com/v1/usernames/users
+  Query Timestamp: 2026-11-01 20:51:02 UTC
+  Intelligence:    Handle not found on Roblox.
+
+================================================================================
+                      END OF XIII 0S1NT REPORT                          
+           DO NOT DISTRIBUTE SENSITIVE DATA WITHOUT PERMISSION          
+================================================================================
